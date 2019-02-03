@@ -1,3 +1,5 @@
+#!/bin/bash
+
 user="$USER"
 prefix="ssh-"
 username=${user#$prefix}
